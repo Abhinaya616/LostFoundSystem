@@ -77,6 +77,6 @@ If you're using an IDE:
 
 ------📁 Clone the Repository-----
 ```bash
-git clone https://github.com/your-username/lost-found-system.git
-cd lost-found-system
+git clone https://github.com/Abhinaya616/LostFoundSystem.git
+cd LostFoundSystem
 
